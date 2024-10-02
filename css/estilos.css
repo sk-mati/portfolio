@@ -199,7 +199,38 @@ nav .active {
     font-weight: 600;
 }
 
-.mati {
-    border-radius: 200px;
-    width: 70%;
+#stack {
+    color: white;
+    background-image: linear-gradient(to right, rgba(125, 7, 7, 1), rgba(215, 11, 11, 1));
+}
+
+#stack .tecno {
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+
+#stack h2 {
+    color: white;
+    font-size: 24px;
+}
+
+#stack h3 {
+    color: #282828;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+#stack .tecno i {
+    font-size: 60px;
+    color: #6A6A6A;
+}
+
+#descripcion img {
+    border-radius: 50%;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
 }
