@@ -230,7 +230,24 @@ nav .active {
     border-radius: 50%;
 }
 
-.img-fluid {
-    max-width: 100%;
-    height: auto;
+#experiencia h2, #formacion h2, #cursos h2 {
+    color: #370a6d;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+#experiencia h3, #formacion h3, #cursos h3 {
+    color: #6A6A6A;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#experiencia h4, #formacion h4, #cursos h4 {
+    color: #370a6d;
+    font-size: 17px;
+}
+
+#experiencia h5, #formacion h5, #cursos h5 {
+    color: #6A6A6A;
+    font-size: 14px;
 }
