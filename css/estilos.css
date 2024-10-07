@@ -251,3 +251,13 @@ nav .active {
     color: #6A6A6A;
     font-size: 14px;
 }
+
+.baw {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.baw:hover {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(0%);
+}
