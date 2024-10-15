@@ -42,6 +42,12 @@ p {
     cursor: pointer;
 }
 
+.btn-blanco {
+    background-color: white;
+    color: #370a6d;
+    border-radius: 20px;
+}
+
 #contacto footer, #inicio footer {
     color: white;
     font-weight: 100;
@@ -50,7 +56,7 @@ p {
 
 #contacto footer a, #inicio footer a {
     color: white;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 #contacto footer .fa-linkedin-in, #inicio footer .fa-linkedin-in {
@@ -111,10 +117,7 @@ nav .active {
 .btn-rojo {
     background-color: #E20000;
     color: white;
-    border: 0px;
     border-radius: 20px;
-    padding: 10px;
-    text-decoration: none;
     font-weight: 100;
 }
 
@@ -130,11 +133,13 @@ nav .active {
 
 #proyectos footer, #sobremi footer {
     color: #E20000;
+    font-weight: 100;
+    bottom: 0px;
 }
 
 #proyectos footer a, #sobremi footer a {
     color: #E20000;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 #proyectos footer .fa-linkedin-in, #sobremi footer .fa-linkedin-in {
