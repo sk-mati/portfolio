@@ -24,16 +24,16 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
                         <li class="nav-item">
-                            <a class="nav-link px-4 active" href="index.html">Inicio</a>
+                            <a class="nav-link px-4 active" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4" href="sobre-mi.html">Sobre mí</a>
+                            <a class="nav-link px-4" href="sobre-mi.php">Sobre mí</a>
                         </li>
                         <li class="nav-item"></li>
-                        <a class="nav-link px-4" href="proyectos.html">Proyectos</a>
+                        <a class="nav-link px-4" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item"></li>
-                        <a class="nav-link px-4" href="contacto.html">Contacto</a>
+                        <a class="nav-link px-4" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <ul class="navbar-nav">
@@ -62,7 +62,7 @@
           </div>
         </div>
         <div class="col-12 text-center">
-            <a href="proyectos.html" class="btn">Conozca mis proyectos</a>
+            <a href="proyectos.html" class="btn btn-blanco">Conozca mis proyectos</a>
         </div>
       </div>
     </main>

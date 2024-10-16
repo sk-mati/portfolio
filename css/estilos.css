@@ -253,16 +253,6 @@ nav .active {
     font-size: 14px;
 }
 
-.baw {
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-}
-
-.baw:hover {
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(0%);
-}
-
 #extras .card {
     background-color:#370a6d;
     border-radius: 15px;

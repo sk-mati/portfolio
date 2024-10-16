@@ -24,16 +24,16 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
                         <li class="nav-item">
-                            <a class="nav-link px-4" href="index.html">Inicio</a>
+                            <a class="nav-link px-4" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4 active" href="sobre-mi.html">Sobre mí</a>
+                            <a class="nav-link px-4 active" href="sobre-mi.php">Sobre mí</a>
                         </li>
                         <li class="nav-item"></li>
-                        <a class="nav-link px-4" href="proyectos.html">Proyectos</a>
+                        <a class="nav-link px-4" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item"></li>
-                        <a class="nav-link px-4" href="contacto.html">Contacto</a>
+                        <a class="nav-link px-4" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <ul class="navbar-nav">
@@ -180,7 +180,7 @@
                     <div class="col-12">
                         <div class="row">
                             <div class="col-2 d-none d-sm-block p-5">
-                                <img src="images/sin-logo.png" alt="" class="img-fluid" class="baw">
+                                <img src="images/profesor.png" alt="" class="img-fluid baw">
                             </div>
                             <div class="col-sm-10 mt-4">
                                 <h3>Profesor particular</h3>
@@ -192,60 +192,13 @@
                         </div>
                         <div class="row">
                             <div class="col-2 d-none d-sm-block p-5">
-                                <img src="images/sin-logo.png" alt="" class="img-fluid">
+                                <img src="images/tecnico.png" alt="" class="img-fluid baw">
                             </div>
                             <div class="col-sm-10 mt-4">
                                 <h3>Reparador de equipos electrónicos</h3>
                                 <h4>Trabajo autónomo</h4>
                                 <h5>ene 2019 - actualidad</h5>
-                                <p>Reparación, mantenimiento y optimización de computadoras a nivel hardware y software.
-                                Reparación y mantenimiento de distintos tipos de impresoras.
-                                Reparación de celulares.
-                                Brindo un servicio en el cuál priorizo encontrar una solución a lo comunicado por el cliente. Además,
-                                garantizo un trabajo de calidad generando un trato de confianza.</p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-2 d-none d-sm-block p-5">
-                                <img src="images/sin-logo.png" alt="" class="img-fluid">
-                            </div>
-                            <div class="col-sm-10 mt-4">
-                                <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h3>
-                                <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h4>
-                                <h5>Lorem ipsum dolor</h5>
-                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non exercitationem porro
-                                    eum
-                                    maxime! Accusantium labore voluptates iure delectus est, nisi excepturi expedita
-                                    quas
-                                    beatae tenetur eum repellendus ut exercitationem. Deleniti!</p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-2 d-none d-sm-block p-5">
-                                <img src="images/sin-logo.png" alt="" class="img-fluid">
-                            </div>
-                            <div class="col-sm-10 mt-4">
-                                <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h3>
-                                <h4>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h4>
-                                <h5>Lorem ipsum dolor</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non reiciendis sint, quas,
-                                    dignissimos praesentium totam et laborum atque magnam tempora iure, perferendis
-                                    excepturi earum! Ipsam cum quos at aperiam dolor.</p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-2 d-none d-sm-block p-5">
-                                <img src="images/sin-logo.png" alt="" class="img-fluid">
-                            </div>
-                            <div class="col-sm-10 mt-4">
-                                <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h3>
-                                <h4>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h4>
-                                <h5>Lorem ipsum dolor</h5>
-                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum ratione assumenda
-                                    eveniet
-                                    repellat iure, et quam laudantium laboriosam iusto a rem rerum sequi, voluptate
-                                    mollitia
-                                    soluta, eos explicabo nesciunt odit.</p>
+                                <p>Reparación, mantenimiento y optimización de computadoras, impresoras y celulares tanto a nivel hardware como software.</p>
                             </div>
                         </div>
                     </div>
@@ -262,7 +215,7 @@
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/sin-logo.png" alt="" class="img-fluid">
+                            <img src="images/etiec.jpg" alt="" class="img-fluid baw">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
                             <h3>Técnico Mecánico Industrial</h3>
@@ -275,26 +228,13 @@
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/sin-logo.png" alt="" class="img-fluid">
+                            <img src="images/uncuyo.jpg" alt="" class="img-fluid baw">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
                             <h3>Ingeniería Industrial</h3>
                             <h4>Universidad Nacional de Cuyo</h4>
                             <h5>2020 - 2024</h5>
                             <p>https://ingenieria.uncuyo.edu.ar</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6">
-                    <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/sin-logo.png" alt="" class="img-fluid">
-                        </div>
-                        <div class="col-12 col-sm-10 p-3">
-                            <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h3>
-                            <h4>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h4>
-                            <h5>Lorem ipsum dolor</h5>
-                            <p>Lorem ipsum dolor</p>
                         </div>
                     </div>
                 </div>
@@ -310,7 +250,7 @@
                     <div class="col-12 col-sm-6">
                         <div class="row">
                             <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                <img src="images/sin-logo.png" alt="" class="img-fluid baw" title="curso">
+                                <img src="images/uncuyo.jpg" alt="" class="img-fluid baw">
                             </div>
                             <div class="col-12- col-sm-10 p-3">
                                 <h3>Curso introductorio al desarrollo de videojuegos</h3>
@@ -322,7 +262,7 @@
                     <div class="col-12 col-sm-6">
                         <div class="row">
                             <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                <img src="images/sin-logo.png" alt="" class="img-fluid baw" title="curso">
+                                <img src="images/coursera.png" alt="" class="img-fluid baw">
                             </div>
                             <div class="col-12- col-sm-10 p-3">
                                 <h3>Learning how to learn</h3>
@@ -334,7 +274,7 @@
                     <div class="col-12 col-sm-6">
                         <div class="row">
                             <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                <img src="images/sin-logo.png" alt="" class="img-fluid baw" title="curso">
+                                <img src="images/comunidad.jpg" alt="" class="img-fluid baw">
                             </div>
                             <div class="col-12- col-sm-10 p-3">
                                 <h3>Armado y reparación de computadoras</h3>
@@ -346,7 +286,7 @@
                     <div class="col-12 col-sm-6">
                         <div class="row">
                             <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                <img src="images/sin-logo.png" alt="" class="img-fluid baw" title="curso">
+                                <img src="images/udemy.png" alt="" class="img-fluid baw">
                             </div>
                             <div class="col-12- col-sm-10 p-3">
                                 <h3>Curso introductorio a Python</h3>
@@ -358,7 +298,7 @@
                     <div class="col-12 col-sm-6">
                         <div class="row">
                             <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                <img src="images/sin-logo.png" alt="" class="img-fluid baw" title="curso">
+                                <img src="images/axon.jpeg" alt="" class="img-fluid baw">
                             </div>
                             <div class="col-12- col-sm-10 p-3">
                                 <h3>Formación profesional de coaching ontológico</h3>
@@ -370,7 +310,7 @@
                     <div class="col-12 col-sm-6">
                         <div class="row">
                             <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                <img src="images/sin-logo.png" alt="" class="img-fluid baw" title="curso">
+                                <img src="images/depc.png" alt="" class="img-fluid baw">
                             </div>
                             <div class="col-12- col-sm-10 p-3">
                                 <h3>Bootcamp programación web full stack</h3>
