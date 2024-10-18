@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
     <script src="css/bootstrap/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="css/estilos.css">
-    <link rel="shorcut icon" href="images/icono.png">
 </head>
 
 <body id="inicio" class="d-flex flex-column h-100">
