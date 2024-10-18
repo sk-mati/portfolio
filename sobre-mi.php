@@ -180,25 +180,13 @@
                     <div class="col-12">
                         <div class="row">
                             <div class="col-2 d-none d-sm-block p-5">
-                                <img src="images/profesor.png" alt="" class="img-fluid baw">
-                            </div>
-                            <div class="col-sm-10 mt-4">
-                                <h3>Profesor particular</h3>
-                                <h4>Trabajo autónomo</h4>
-                                <h5>ene 2019 - actualidad</h5>
-                                <p>Acompañamiento personalizado a diversos alumnos en distintas materias de índole técnico.
-                                Acompañamiento de personas en áreas relacionadas a la enseñanza computacional.</p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-2 d-none d-sm-block p-5">
-                                <img src="images/tecnico.png" alt="" class="img-fluid baw">
+                                <img src="images/sin-logo.png" alt="" class="img-fluid baw">
                             </div>
                             <div class="col-sm-10 mt-4">
                                 <h3>Reparador de equipos electrónicos</h3>
                                 <h4>Trabajo autónomo</h4>
                                 <h5>ene 2019 - actualidad</h5>
-                                <p>Reparación, mantenimiento y optimización de computadoras, impresoras y celulares tanto a nivel hardware como software.</p>
+                                <p>Realizo la reparación, mantenimiento y optimización de computadoras, impresoras y celulares tanto a nivel hardware como software.</p>
                             </div>
                         </div>
                     </div>
@@ -215,26 +203,13 @@
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/etiec.jpg" alt="" class="img-fluid baw">
+                            <img src="images/etiec.jpg" alt="etiec" class="img-fluid baw">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
                             <h3>Técnico Mecánico Industrial</h3>
                             <h4>Escuela Técnico Industrial Emilio Civit</h4>
                             <h5>2013 - 2018</h5>
                             <p>https://www.escuelaetiec.com</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6">
-                    <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/uncuyo.jpg" alt="" class="img-fluid baw">
-                        </div>
-                        <div class="col-12 col-sm-10 p-3">
-                            <h3>Ingeniería Industrial</h3>
-                            <h4>Universidad Nacional de Cuyo</h4>
-                            <h5>2020 - 2024</h5>
-                            <p>https://ingenieria.uncuyo.edu.ar</p>
                         </div>
                     </div>
                 </div>
@@ -250,7 +225,7 @@
                     <div class="col-12 col-sm-6">
                         <div class="row">
                             <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                <img src="images/uncuyo.jpg" alt="" class="img-fluid baw">
+                                <img src="images/uncuyo.jpg" alt="uncuyo" class="img-fluid baw">
                             </div>
                             <div class="col-12- col-sm-10 p-3">
                                 <h3>Curso introductorio al desarrollo de videojuegos</h3>
@@ -262,23 +237,11 @@
                     <div class="col-12 col-sm-6">
                         <div class="row">
                             <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                <img src="images/coursera.png" alt="" class="img-fluid baw">
-                            </div>
-                            <div class="col-12- col-sm-10 p-3">
-                                <h3>Learning how to learn</h3>
-                                <h4>Coursera</h4>
-                                <h5>Expedición: 2023</h5>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-6">
-                        <div class="row">
-                            <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                <img src="images/comunidad.jpg" alt="" class="img-fluid baw">
+                                <img src="images/reparando.jpg" alt="reparando" class="img-fluid baw">
                             </div>
                             <div class="col-12- col-sm-10 p-3">
                                 <h3>Armado y reparación de computadoras</h3>
-                                <h4>Comunidad reparando</h4>
+                                <h4>Comunidad Reparando</h4>
                                 <h5>Expedición: 2023</h5>
                             </div>
                         </div>
@@ -286,34 +249,10 @@
                     <div class="col-12 col-sm-6">
                         <div class="row">
                             <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                <img src="images/udemy.png" alt="" class="img-fluid baw">
+                                <img src="images/depc.png" alt="depc" class="img-fluid baw">
                             </div>
                             <div class="col-12- col-sm-10 p-3">
-                                <h3>Curso introductorio a Python</h3>
-                                <h4>Udemy</h4>
-                                <h5>Expedición: 2024</h5>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-6">
-                        <div class="row">
-                            <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                <img src="images/axon.jpeg" alt="" class="img-fluid baw">
-                            </div>
-                            <div class="col-12- col-sm-10 p-3">
-                                <h3>Formación profesional de coaching ontológico</h3>
-                                <h4>Axon Training</h4>
-                                <h5>Expedición: 2024</h5>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-6">
-                        <div class="row">
-                            <div class="col-2 py-3 my-auto d-none d-sm-block">
-                                <img src="images/depc.png" alt="" class="img-fluid baw">
-                            </div>
-                            <div class="col-12- col-sm-10 p-3">
-                                <h3>Bootcamp programación web full stack</h3>
+                                <h3>Bootcamp Programación Web Full Stack</h3>
                                 <h4>DePC Suite</h4>
                                 <h5>Expedición: en curso</h5>
                             </div>
@@ -341,7 +280,7 @@
                     <div class="col-sm-6 col-12">
                         <div class="row ml-sm-2 bg-white card-idiomas shadow ms-sm-1">
                             <div class="col-4 text-center card">
-                                <i class="fa-solid fa-table-tennis-paddle-ball"></i>
+                                <i class="fa-solid fa-book" style="color: #ffffff;"></i>
                             </div>
                             <div class="col-8 pt-5 px-5">
                                 <h2>HOBBIES</h2>
