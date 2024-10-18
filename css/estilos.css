@@ -56,7 +56,7 @@ p {
 
 #contacto footer a, #inicio footer a {
     color: white;
-    text-decoration: underline;
+    font-weight: 100;
 }
 
 #contacto footer .fa-linkedin-in, #inicio footer .fa-linkedin-in {
@@ -139,7 +139,7 @@ nav .active {
 
 #proyectos footer a, #sobremi footer a {
     color: #E20000;
-    text-decoration: underline;
+    font-weight: 100;
 }
 
 #proyectos footer .fa-linkedin-in, #sobremi footer .fa-linkedin-in {

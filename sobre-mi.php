@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
     <script src="css/bootstrap/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="css/estilos.css">
+    <link rel="shorcut icon" href="images/icon.png">
 </head>
 
 <body id="sobremi" class="d-flex flex-column h-100">
