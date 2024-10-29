@@ -24,7 +24,7 @@ $pg = "index";
   <main class="container">
     <div class="row">
       <div class="col-12 mx-auto text-center cohete">
-        <a href="proyectos.html">
+        <a href="proyectos.php">
           <img src="images/cohete.svg" alt="cohete">
         </a>
       </div>

@@ -21,7 +21,7 @@
                     </ul>
                     <ul class="navbar-nav">
                       <li class="float-sm-end">
-                        <a href="contacto.html" class="btn btn-rojo">
+                        <a href="contacto.php" class="btn btn-rojo">
                           Descargue mi CV
                           <i class="fa-solid fa-download"></i>
                         </a>
